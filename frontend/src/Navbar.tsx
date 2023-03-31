@@ -7,7 +7,7 @@ function Navbar(props: any) {
       <header>
         <nav className="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
           <div className="container">
-            <Link className="navbar-brand" to="/home">
+            <Link className="navbar-brand" to="/">
               Mission 13
             </Link>
             <div className="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
