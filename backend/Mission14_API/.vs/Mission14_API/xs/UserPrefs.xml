@@ -1,30 +1,34 @@
-﻿<Properties StartupConfiguration="{E8E8C646-9C3B-49EC-917D-EE897D2C47CB}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{E8E8C646-9C3B-49EC-917D-EE897D2C47CB}|api">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Podcast.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/MovieController.cs">
     <Files>
-      <File FileName="Controllers/WeatherForecastController.cs" />
-      <File FileName="Data/Podcast.cs" Line="16" Column="1" />
-      <File FileName="Data/PodcastDbContext.cs" />
       <File FileName="appsettings.json" />
       <File FileName="Program.cs" />
+      <File FileName="Data/JoelHiltonMovieCollectionContext.cs" />
+      <File FileName="Data/Movie.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Controllers/MovieController.cs" Line="31" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission14_API" expanded="True">
             <Node name="Mission14_API" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="MovieController.cs" selected="True" />
+              </Node>
               <Node name="Data" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Mission14__API FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Mission14__API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
